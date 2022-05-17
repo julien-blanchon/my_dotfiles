@@ -50,53 +50,26 @@ brew "ykman"
 brew "zsh"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
-
-### packages for work
-# brew "mysql-client"
-
-### packages for personal use
 brew "ffmpeg"
 brew "media-info"
 brew "mkvtoolnix"
 brew "mp4v2"
 
 ### casks for work and personal use
-cask "1password"
-cask "alfred"
 cask "brave-browser"
 cask "docker"
 cask "firefox"
-cask "karabiner-elements"
-cask "kitty"
-cask "postico"
 cask "rstudio"
 cask "visual-studio-code"
-cask "visual-studio-code-insiders"
 cask "vlc"
-cask "zotero" # no arm64_big_sur yet
-
-### casks for work
-# cask "datagrip"
-# cask "docker"
-# cask "inkscape"
-# cask "postman"
-
-### casks for personal use
-cask "backblaze"
-cask "handbrake"
-cask "jellyfin" # no arm64_big_sur yet
-cask "makemkv"
-cask "plex-media-server" # no arm64_big_sur yet
-cask "protonvpn"
-# cask "vscodium" # no arm64_big_sur yet: https://github.com/VSCodium/vscodium/issues/597
 
 ### mac app store
 # mas "1password", id: 1333542190
 mas "bear", id: 1091189122
-mas "cascadea", id: 1432182561
 mas "daisydisk", id: 411643860
-mas "duckduckgo privacy essentials", id: 1482920575
 mas "keynote", id: 409183694
 mas "numbers", id: 409203825
 mas "pages", id: 409201541
-mas "pdf expert", id: 1055273043
+mas "xcode", id: 497799835
+mas "slack", id: 803453959
+mas "The Unarchiver", id: 425424353
